@@ -9,7 +9,7 @@ Welcome to the **AI-Powered Chess Move Calculator**! This tool is designed to he
 ## 🌐 VISIT PROJECT
 
 Experience the AI Chess Calculator for yourself:  
-👉 **[Click here to visit the project](tinyurl.com/3hby4jz4)**
+👉 **[Click here to visit the project](https://tinyurl.com/3hby4jz4)**
 
 ---
 
@@ -42,7 +42,7 @@ Here is a preview of the AI Chess Move Calculator in action. The clean and intui
 ## 🌐 VISIT PROJECT
 
 Experience the AI Chess Calculator for yourself:  
-👉 **[Click here to visit the project](tinyurl.com/3hby4jz4)**
+👉 **[Click here to visit the project](https://tinyurl.com/3hby4jz4)**
 
 ---
 
