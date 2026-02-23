@@ -6,6 +6,13 @@ Welcome to the **AI-Powered Chess Move Calculator**! This tool is designed to he
 
 ---
 
+## 🌐 VISIT PROJECT
+
+Experience the AI Chess Calculator for yourself:  
+👉 **[Click here to visit the project](tinyurl.com/3hby4jz4)**
+
+---
+
 ## 📖 Introduction
 
 Chess is a game of infinite possibilities. With over 10^40 possible positions, calculating the absolute best move in real-time is a monumental task. Traditional methods rely heavily on human intuition and experience, but what if you could have a superhuman assistant?
